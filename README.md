@@ -3,8 +3,9 @@ This Python program allows users to encrypt and decrypt text using the Caesar Ci
 
 Usage
 Clone this repository:
-git clone https://github.com/alby-shinoj/caesar-cipher.git
-
+```bash
+git clone https://github.com/alby-shinoj/Caesar-Cipher.git
+```
 Navigate to the project directory:
 cd caesar-cipher
 
